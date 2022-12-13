@@ -28,7 +28,7 @@ background-color: rgb(192, 219, 242);
     border: 10px solid rgb(0, 174, 255);
     padding: 15px;
     border-image: url(border.png) 50 round;
-  }
+}
 
 .skiing{
     border: 5px solid black;
